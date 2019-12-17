@@ -1,0 +1,28 @@
+Object: Yacht
+Attributes:
+color ("Green")
+owner ("Bob")
+max_number_of_passengers (100)
+number_of_passengers (50)
+enough_crew_members (true)
+Methods:
+paint_job: color = "Blue"
+sell_boat: owner = "Robert"
+add_passenger: 1 + 50 = 51
+is_overcapacity: 51 > 100 = false
+is_crewed: enough_crew_members is equal to true = true
+
+
+Object: Sail_boat
+Attributes:
+color ("Yellow")
+owner ("Max")
+max_number_of_passengers (10)
+number_of_passengers (10)
+enough_crew_members (false)
+Methods:
+paint_job: color = "Green"
+sell_boat: owner = "Andy"
+add_passenger: 1 + 10 = 11
+is_overcapacity: 11 > 10 = true
+is_crewed: enough_crew_members is equal to true = false
