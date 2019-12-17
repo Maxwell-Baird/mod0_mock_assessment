@@ -1,0 +1,36 @@
+1 Doing Laundry
+  1.1 Gather cloths
+    1.1.1 Gather all dirty cloths together
+      1.1.1.1 check near by area to make sure no missing pieces
+      1.1.1.2 check to make sure each sock has a pair
+    1.1.2 Sort cloths
+      1.1.2.1 Sort by color
+      1.1.2.2 Sort by how hot the water needs to be
+      1.1.2.3 Sort by how much time in the dyer is needed
+    1.1.3 Take the sorted load to dryer
+  1.2 Start washing machine
+    1.2.1 Turn on washing machine
+      1.2.1.1 Set water to desire temperature
+    1.2.2 Put in soap
+      1.2.2.1 measure correct amount of soap
+      1.2.2.2 pour soap into machine
+    1.2.3 put in cloths
+    1.2.4 wait
+      1.2.4.1 set a timer to remind you about cloths
+    1.2.5 remove cloths
+      1.2.5.1 put wet cloths in dryer
+      1.2.5.2 check machine to make sure no lost cloths
+  1.3 Start dryer
+    1.2.1 Put in wet cloths
+    1.2.2 put in a dryer sheet
+    1.2.3 turn on machine
+      1.2.3.1 check lint trap
+        1.2.3.1.1 clean lint trap
+      1.2.3.2 set dryer to desired time
+    1.2.4 wait
+      1.2.4.1 set a timer to remind you of cloths
+    1.2.5 remove cloths
+  1.4 fold clean cloths
+    1.4.1 sort the clean load by cloths type
+      1.4.1.1 make sure each sock has a pair
+    1.4.2 put clean cloths into dresser
