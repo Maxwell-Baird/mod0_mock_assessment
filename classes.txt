@@ -1,0 +1,13 @@
+Class: Boat
+Attributes:
+color (string)
+owner (string)
+max_number_of_passengers (integer)
+number_of_passengers (integer)
+enough_crew_members (boolean)
+Methods:
+paint_job (changes color)
+sell_boat (changes owner)
+add_passenger (adds one to number_of_passengers)
+is_overcapacity (is number_of_passengers greater than max_number_of_passengers)
+is_crewed (checks if crew is true or false)
